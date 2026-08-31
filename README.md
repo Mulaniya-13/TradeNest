@@ -197,7 +197,7 @@ Follow these steps to run TradeNest locally.
 
 1. Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/TradeNest.git
+git clone https://github.com/Mulaniya-13/TradeNest.git
 
 cd TradeNest
 
