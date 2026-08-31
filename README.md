@@ -1,4 +1,4 @@
-📈 TradeNest
+##📈 TradeNest
 
 A modern full-stack stock trading & investment platform built from scratch.
 
