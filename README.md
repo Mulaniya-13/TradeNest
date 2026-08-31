@@ -1,4 +1,4 @@
-##📈 TradeNest
+📈 TradeNest
 
 A modern full-stack stock trading & investment platform built from scratch.
 
@@ -563,7 +563,7 @@ I'm interested in:
 Connect with me
 
 - GitHub: "https://github.com/Mulaniya-13"
-- LinkedIn: "YOUR_LINKEDIN_URL"
+- LinkedIn: "https://www.linkedin.com/in/aashish-mulaniya13"
 
 ---
 
