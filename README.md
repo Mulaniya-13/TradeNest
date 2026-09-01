@@ -4,7 +4,6 @@ A modern full-stack stock trading & investment platform built from scratch.
 
 TradeNest is a full-stack fintech web application inspired by modern online stock-brokerage platforms. It allows users to explore stocks, manage a portfolio, place simulated buy/sell orders, track holdings, and monitor their overall investment performance — all through a clean, responsive interface.
 
-«⚠️ Disclaimer: TradeNest is an educational project built for learning and demonstration purposes. It does not execute real trades or handle real money.»
 
 ---
 
