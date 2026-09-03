@@ -584,6 +584,6 @@ See the "LICENSE" file for more information.
 
 <p align="center">Built with ❤️, ☕ and a lot of debugging.
 
-TradeNest — Learn. Build. Invest..
+TradeNest — Learn. Build. Invest.
 
 </p>
