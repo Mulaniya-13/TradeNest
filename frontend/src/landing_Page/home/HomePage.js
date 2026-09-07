@@ -14,7 +14,6 @@ function HomePage() {
         <>
         <NavBar />
         <Hero />
-        <OpenAccount />
         <Trust />
         <Connect />
         <Pricing />
