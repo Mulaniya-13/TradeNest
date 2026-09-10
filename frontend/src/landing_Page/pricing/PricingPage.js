@@ -16,7 +16,6 @@ function PricingPage() {
         <DematAMC />
         <ChargesForAdditional />
         <ChargesExplained />
-        <Footer />
         </>
      );
 }

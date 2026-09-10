@@ -8,7 +8,6 @@ function AboutPage() {
         <>
         <Hero />
         <People />
-        <Footer />
         </>
      );
 }

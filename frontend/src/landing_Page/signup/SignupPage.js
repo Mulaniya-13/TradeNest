@@ -19,7 +19,6 @@ function SignUpPage() {
         <AccountType />
         <FAQs />
         <OpenAccount />
-        <Footer />
         </>
      );
 }
