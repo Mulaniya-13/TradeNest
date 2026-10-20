@@ -1,4 +1,4 @@
-const { model } = requoire("mongoose");
+const { model } = require("mongoose");
 
 const { PositionsSchemas } = require("../schemas/PositionsSchemas");
 

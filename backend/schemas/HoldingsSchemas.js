@@ -1,6 +1,6 @@
-const { schema } = require("mongoose");
+const mongoose = require("mongoose");
 
-const HoldingsSchema = new schema({
+const HoldingsSchema = new mongoose.Schema({
     name: String,
     qty: Number,
     avg: Number,
